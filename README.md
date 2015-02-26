@@ -1,6 +1,6 @@
 tutorial-graduates
 ===============
 
-List of everyone who successfully finished the BioJS 2 tutorial
+List of everyone who successfully finished the BioJS 2 [education](http://edu.biojs.net) tutorial
 
-You can fetch a CORS-version at [`graduates.biojs.net/list`](http://graduates.biojs.net/list)
+Please don't hesistate to add yourself to this list after you completed the ["graduate"](http://edu.biojs.net/graduates/basic_io/) tutorial.
